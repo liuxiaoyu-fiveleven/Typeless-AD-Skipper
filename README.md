@@ -38,7 +38,7 @@
 
 
 <h3 align="center">
-  &#12288;&#12288;&#12288;&#12288;&#12288;&#12288;&nbsp;
+  &#12288;&#12288;&#12288;&#12288;&#12288;&#12288;
   <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/Typeless.AD.Skipper.dmg">
     → Download for macOS
   </a>
