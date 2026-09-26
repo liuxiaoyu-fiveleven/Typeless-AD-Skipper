@@ -1,3 +1,6 @@
+
+
+
 <p align="center">
   <img
     width="50"
@@ -28,15 +31,38 @@
 
 
 <p align="center">
-  <code>macOS & Windows</code>
+  <code> macOS · Windows </code>
 </p>
 
 
+
+
 <h3 align="center">
+  　　　　　 　
   <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/Typeless.AD.Skipper.dmg">
-  → Download the Latest Version ⁠<br>
+    → Download for macOS
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <sub><sup>Notarized by Apple.</sup></sub>
+</h3>
+
+<h3 align="center">
+  <a href="WINDOWS_DOWNLOAD_LINK">
+    → Download for Windows
   </a>
 </h3>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48,10 +74,4 @@
   />
 </p>
 
-
-
-
-<p align="center">
-  <code> Notarized by Apple.</code>
-</p>
 
