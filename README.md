@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <code>macOS only for now.</code>
+  <code>macOS & Windows</code>
 </p>
 
 
