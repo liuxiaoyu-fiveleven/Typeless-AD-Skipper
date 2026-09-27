@@ -5,40 +5,20 @@
   />
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">
   Typeless AD Skipper
 </h1>
 
 
-
-
 <h3 align="center"> Auto-skip Typeless ad pop-ups. A lightweight, battery-friendly, and unobtrusive app. </h3>
 
 
-
-<p align="center"><sup><b>
-  
-</b></sup></p>
-
+<br>
 
 
 <p align="center">
   <code> Available on macOS and Windows. </code>
 </p>
-
-
-
 
 
 
@@ -50,17 +30,14 @@
 </p>
 
 
-
-
-
+<br>
 
 
 <p align="center">
-  <img
-    width="450"
-    height="600"
-    src="https://github.com/user-attachments/assets/cb599e44-9dd4-4fbb-b243-33a8e28a4fcc"
-  />
+  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases">
+    <img
+      width="450"
+      src="https://github.com/user-attachments/assets/cb599e44-9dd4-4fbb-b243-33a8e28a4fcc"
+    />
+  </a>
 </p>
-
-
