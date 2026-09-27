@@ -22,26 +22,31 @@
 
 
 <p align="center"><sup><b>
-  A lightweight, battery-friendly, and unobtrusive app.
+  
 </b></sup></p>
 
 
 
 <p align="center">
-  <code> macOS · Windows </code>
+  <code> A lightweight, battery-friendly, and unobtrusive app. </code>
 </p>
+
+
+
 
 
 
 
 <p align="center">
-  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/macOS-Typeless.AD.Skipper.dmg">
-    <img src="https://github.com/user-attachments/assets/85236e74-0d7a-438d-9a9e-36ad737252e5" width="25%" />
-  </a>
-  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/Windows-Typeless.AD.Skipper.zip">
-    <img src="https://github.com/user-attachments/assets/2f441e81-01fe-48a1-ba08-90b85737e5bd" width="25%" />
-  </a>
+  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/macOS-Typeless.AD.Skipper.dmg"><img src="https://github.com/user-attachments/assets/85236e74-0d7a-438d-9a9e-36ad737252e5" width="25%" /></a>
+    &emsp;&emsp;
+  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/Windows-Typeless.AD.Skipper.zip"><img src="https://github.com/user-attachments/assets/2f441e81-01fe-48a1-ba08-90b85737e5bd" width="25%" /></a>
 </p>
+
+
+
+
+
 
 
 
