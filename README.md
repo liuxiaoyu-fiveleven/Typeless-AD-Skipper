@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <code> Available on macOS and Windows </code>
+  <code> Available on macOS and Windows. A lightweight, battery-friendly, and unobtrusive app. </code>
 </p>
 
 
