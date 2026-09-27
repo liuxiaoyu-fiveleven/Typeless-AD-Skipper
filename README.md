@@ -1,9 +1,12 @@
 <p align="center">
-  <img
-    width="50"
-    src="https://github.com/user-attachments/assets/d29d21b6-8b23-4ba8-8dbc-29ea519aa34a"
-  />
+  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases">
+    <img
+      width="50"
+      src="https://github.com/user-attachments/assets/d29d21b6-8b23-4ba8-8dbc-29ea519aa34a"
+    />
+  </a>
 </p>
+
 
 <h1 align="center">
   Typeless AD Skipper
