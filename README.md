@@ -34,27 +34,26 @@
 
 
 
-<h3 align="center">
-&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/macOS-Typeless.AD.Skipper.dmg">
-    → Download for macOS
+<p align="center">
+  <a href="link1">
+    <img src="https://example.com/image1.png" width="45%" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <sub><sup>Notarized by Apple.</sup></sub>
-</h3>
-
-
-
-<h3 align="center">
-  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/Windows-Typeless.AD.Skipper.zip">
-    → Download for Windows
+  <a href="link2">
+    <img src="https://example.com/image2.png" width="45%" />
   </a>
-</h3>
+</p>
+
+
+
+
+<img width="500" height="272" alt="win" src="https://github.com/user-attachments/assets/2f441e81-01fe-48a1-ba08-90b85737e5bd" />
 
 
 
 
 
+
+<img width="500" height="272" alt="mac" src="https://github.com/user-attachments/assets/85236e74-0d7a-438d-9a9e-36ad737252e5" />
 
 
 
