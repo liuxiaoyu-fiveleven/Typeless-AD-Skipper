@@ -43,8 +43,10 @@
   <sub><sup>Notarized by Apple.</sup></sub>
 </h3>
 
+
+
 <h3 align="center">
-  <a href="WINDOWS_DOWNLOAD_LINK">
+  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/Windows-Typeless.AD.Skipper.zip">
     → Download for Windows
   </a>
 </h3>
