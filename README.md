@@ -35,29 +35,13 @@
 
 
 <p align="center">
-  <a href="link1">
-    <img src="https://example.com/image1.png" width="45%" />
+  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/macOS-Typeless.AD.Skipper.dmg">
+    <img src="https://github.com/user-attachments/assets/85236e74-0d7a-438d-9a9e-36ad737252e5" width="25%" />
   </a>
-  <a href="link2">
-    <img src="https://example.com/image2.png" width="45%" />
+  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/Windows-Typeless.AD.Skipper.zip">
+    <img src="https://github.com/user-attachments/assets/2f441e81-01fe-48a1-ba08-90b85737e5bd" width="25%" />
   </a>
 </p>
-
-
-
-
-<img width="500" height="272" alt="win" src="https://github.com/user-attachments/assets/2f441e81-01fe-48a1-ba08-90b85737e5bd" />
-
-
-
-
-
-
-<img width="500" height="272" alt="mac" src="https://github.com/user-attachments/assets/85236e74-0d7a-438d-9a9e-36ad737252e5" />
-
-
-
-
 
 
 
