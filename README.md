@@ -36,7 +36,7 @@
 
 <h3 align="center">
 &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/Typeless.AD.Skipper.dmg">
+  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/macOS-Typeless.AD.Skipper.dmg">
     → Download for macOS
   </a>
   &nbsp;&nbsp;&nbsp;
