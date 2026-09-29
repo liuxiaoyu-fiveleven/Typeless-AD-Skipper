@@ -19,7 +19,7 @@
 </h1>
 
 
-<h3 align="center"> A lightweight desktop app for auto-skipping Typeless ad pop-ups. </h3>
+<h3 align="center"> Auto-skip Typeless ad pop-ups. A lightweight desktop app.</h3>
 
 
 <br>
