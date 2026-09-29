@@ -40,13 +40,11 @@
 
 
 
-
 <p align="center">
   <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases">
     <img
+      width="500"
       src="https://github.com/user-attachments/assets/834bd0b7-c4d4-46b0-9ff1-5425ee5884e3"
     />
   </a>
 </p>
-
-
