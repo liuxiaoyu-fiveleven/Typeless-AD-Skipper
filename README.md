@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases">
     <img
@@ -34,9 +33,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/macOS-Typeless.AD.Skipper.dmg"><img src="https://github.com/user-attachments/assets/49a3e4d5-12f4-4161-a43f-ed53f6864eaf" width="25%" /></a>
+  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/macOS-Typeless.AD.Skipper.dmg"><img src="https://github.com/user-attachments/assets/e932625a-3ea8-4a95-9d53-7ac3dd1326e8" width="25%" /></a>
     &emsp;&emsp;
-  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/Windows-Typeless.AD.Skipper.zip"><img src="https://github.com/user-attachments/assets/91aa44b5-23da-4b32-86ab-90da592e0a42" width="25%" /></a>
+  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/latest/download/Windows-Typeless.AD.Skipper.zip"><img src="https://github.com/user-attachments/assets/0e18bb80-3a1d-4573-9ffc-d243e177dbb2" width="25%" /></a>
 </p>
 
 
