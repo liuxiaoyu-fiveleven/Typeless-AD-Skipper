@@ -10,10 +10,6 @@
 
 
 
-
-
-
-
 <h1 align="center">
   Typeless AD Skipper
 </h1>
@@ -30,6 +26,8 @@
 </p>
 
 
+<br>
+
 
 
 <p align="center">
@@ -39,14 +37,17 @@
 </p>
 
 
-<br>
+
+
 
 
 <p align="center">
   <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases">
     <img
-      width="450"
-      src="https://github.com/user-attachments/assets/cb599e44-9dd4-4fbb-b243-33a8e28a4fcc"
+      width="500"
+      src="https://github.com/user-attachments/assets/834bd0b7-c4d4-46b0-9ff1-5425ee5884e3"
     />
   </a>
 </p>
+
+
